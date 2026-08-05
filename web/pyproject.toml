@@ -17,7 +17,7 @@ sentry-sdk = {version = "1.29.2", extras = ["fastapi"]}
 uvicorn = "0.27.1"
 jinja2 = "3.1.2"
 fastapi = "0.108.0"
-gunicorn = "21.2.0"
+gunicorn = "22.0.0"
 redis = {version = "4.6.0", extras = ["hiredis"]}
 xkcdpass = "1.19.3"
 loguru = "0.6.0"
