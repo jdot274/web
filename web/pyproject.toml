@@ -21,7 +21,7 @@ gunicorn = "21.2.0"
 redis = {version = "4.6.0", extras = ["hiredis"]}
 xkcdpass = "1.19.3"
 loguru = "0.6.0"
-anyio = "<=4.0.0"
+anyio = "<=4.14.2"
 pydantic-settings = "^2.5.2"
 
 
